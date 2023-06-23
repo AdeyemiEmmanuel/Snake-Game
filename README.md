@@ -29,3 +29,4 @@ Welcome to the Snake Game repository! This project is a classic implementation o
 - Game over screen with score display.
 
 ## Preview
+![Screenshot (186)](https://github.com/AdeyemiEmmanuel/Snake-Game/assets/98936329/18af2811-e421-4ff5-b291-8f10085835e8)
